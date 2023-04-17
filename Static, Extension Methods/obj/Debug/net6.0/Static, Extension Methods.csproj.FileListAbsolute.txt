@@ -1,0 +1,15 @@
+C:\Users\Alber\Desktop\Static, Extension Methods\Static, Extension Methods\bin\Debug\net6.0\Static, Extension Methods.exe
+C:\Users\Alber\Desktop\Static, Extension Methods\Static, Extension Methods\bin\Debug\net6.0\Static, Extension Methods.deps.json
+C:\Users\Alber\Desktop\Static, Extension Methods\Static, Extension Methods\bin\Debug\net6.0\Static, Extension Methods.runtimeconfig.json
+C:\Users\Alber\Desktop\Static, Extension Methods\Static, Extension Methods\bin\Debug\net6.0\Static, Extension Methods.dll
+C:\Users\Alber\Desktop\Static, Extension Methods\Static, Extension Methods\bin\Debug\net6.0\Static, Extension Methods.pdb
+C:\Users\Alber\Desktop\Static, Extension Methods\Static, Extension Methods\obj\Debug\net6.0\Static, Extension Methods.csproj.AssemblyReference.cache
+C:\Users\Alber\Desktop\Static, Extension Methods\Static, Extension Methods\obj\Debug\net6.0\Static, Extension Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alber\Desktop\Static, Extension Methods\Static, Extension Methods\obj\Debug\net6.0\Static, Extension Methods.AssemblyInfoInputs.cache
+C:\Users\Alber\Desktop\Static, Extension Methods\Static, Extension Methods\obj\Debug\net6.0\Static, Extension Methods.AssemblyInfo.cs
+C:\Users\Alber\Desktop\Static, Extension Methods\Static, Extension Methods\obj\Debug\net6.0\Static, Extension Methods.csproj.CoreCompileInputs.cache
+C:\Users\Alber\Desktop\Static, Extension Methods\Static, Extension Methods\obj\Debug\net6.0\Static, Extension Methods.dll
+C:\Users\Alber\Desktop\Static, Extension Methods\Static, Extension Methods\obj\Debug\net6.0\refint\Static, Extension Methods.dll
+C:\Users\Alber\Desktop\Static, Extension Methods\Static, Extension Methods\obj\Debug\net6.0\Static, Extension Methods.pdb
+C:\Users\Alber\Desktop\Static, Extension Methods\Static, Extension Methods\obj\Debug\net6.0\Static, Extension Methods.genruntimeconfig.cache
+C:\Users\Alber\Desktop\Static, Extension Methods\Static, Extension Methods\obj\Debug\net6.0\ref\Static, Extension Methods.dll
